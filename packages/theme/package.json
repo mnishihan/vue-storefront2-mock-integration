@@ -1,5 +1,5 @@
 {
-  "name": "@vue-storefront/<% INTEGRATION %>-theme",
+  "name": "@vue-storefront/mock-theme",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -24,7 +24,7 @@
     "@vue-storefront/middleware": "~2.4.5",
     "@vue-storefront/nuxt": "~2.4.5",
     "@vue-storefront/nuxt-theme": "~2.4.5",
-    "@vue-storefront/<% INTEGRATION %>": "0.0.1",
+    "@vue-storefront/mock": "0.0.1",
     "cookie-universal-nuxt": "^2.1.5",
     "core-js": "^3.19.0",
     "nuxt": "^2.15.8",
